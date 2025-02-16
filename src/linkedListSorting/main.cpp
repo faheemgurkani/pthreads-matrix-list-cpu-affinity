@@ -1,10 +1,4 @@
 /********************************************************************
- * 22I-0485_BS-AI-B_PDC-Assignment-Q2.cpp
- * 
- * Name:        Muhammad Faheem
- * Student ID:  22I-0485
- * Course:      Parallel and Distributed Computing
- * Assignment:  #1
  * Task:        Sequential and Multi-threaded Sorting
  *
  * Description: 

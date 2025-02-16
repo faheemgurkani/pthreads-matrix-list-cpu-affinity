@@ -1,10 +1,4 @@
 /********************************************************************
- * 22I-0485_BS-AI-B_PDC-Assignment-Q1.cpp
- * 
- * Name:        Muhammad Faheem
- * Student ID:  22I-0485
- * Course:      Parallel and Distributed Computing
- * Assignment:  #1
  * Task:        Matrix Computations using Sequential and Multi-threading Techniques
  *
  * Description: This program implements three separate multi-threaded 
